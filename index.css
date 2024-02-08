@@ -1,0 +1,35 @@
+body {
+  position: relative;
+  width: 570px;
+  margin: auto;
+  color: #000000;
+  font-family: "Arial", sans-serif;
+  background-color:rgba(247, 248, 245, 0.5);
+}
+
+p {
+  margin: 0;
+  padding-top: 230px;
+  text-align: center;
+  font-weight: bold;
+  color: rgba(0, 168, 255, 0.5);
+  font-size: 65px;
+  text-transform: uppercase;
+  text-shadow: 5px 5px rgba(255, 0, 180, 0.5);
+  letter-spacing: -5px;
+  word-spacing: 5px;
+}
+
+span {
+  position: absolute;
+  top: -40px;
+  left: 50%;
+  margin-left: -0.5em;
+  font-size: 200px;
+  line-height: 1em;
+  text-shadow:
+    -70px 80px #f4c300,
+    -140px 0px #0085c7,
+    70px 80px #009f3d,
+    140px 0px #df0024;
+}
